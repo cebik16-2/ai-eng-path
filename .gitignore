@@ -1,0 +1,13 @@
+# Environment variables and API keys
+02-first-project/.env
+# Virtual environment directories
+02-first-project/bin/
+02-first-project/include/
+02-first-project/lib/
+02-first-project/lib64/
+02-first-project/pyvenv.cfg
+02-first-project/venv/
+02-first-project/.venv/
+# Python bytecode cache
+02-first-project/__pycache__/
+02-first-project/*.py[cod]
